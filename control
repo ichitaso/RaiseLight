@@ -1,9 +1,12 @@
 Package: com.greg0109.raiselight
 Name: RaiseLight
+Pre-Depends: firmware (>= 12.0)
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Greg0109
-Author: Greg0109
+Description: DIsables the Raise To Wake feature of the flashlight is on. It also disables the Tap To Wake feature on iPhone X and above.
+Maintainer: ichitaso
+Author: ichitaso, Greg0109
 Section: Tweaks
+Depiction: https://cydia.ichitaso.com/depiction/raiselight.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/raiselight.json
